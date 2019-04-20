@@ -1,3 +1,60 @@
 * {
+    margin: 20px;
+}
+
+body {
+    background-image: url("../images/guilherme-petri-602659-unsplash.jpg");
+}
+
+.style-previews {
+    margin: 10px;
+    text-align: center;
+    width: 32%;
+}
+
+.full-style-example {
+    width: 33.3%;
+    float: left;
+    background-color: rgb(207, 214, 214, 0.7);
+}
+
+.style-btn {
+    color: orange;
+    margin: 10px;
+    font-size: 20px;
     background-color: blueviolet;
+    font-family: 'Pacifico', cursive;
+}
+
+.style-preview {
+    height: 250px;
+    max-width: 350px;
+}
+
+img {
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+}
+
+p {
+    text-align: right;
+    margin: 20px;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+h1 {
+    font-family: 'Shadows Into Light', cursive;
+    color: blueviolet;
+    font-size: 40px;
+}
+
+label {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+#find-style-previews {
+    font-family: 'Shadows Into Light', cursive;
+    border: solid 1px orange;
+    font-size: 15px;
 }
